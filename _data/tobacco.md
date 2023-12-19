@@ -1,0 +1,3 @@
+- 项目描述：销售数据分析平台使用长春市某季度的烟草销售情况数据，通过数据可视化进行大屏展示，通过数据挖掘算法实现零售点推荐和用户画像分析
+- 涉及技术: Spring Boot、Spring Data JDBC、Spring Data JPA、MySQL、Maven、React、ReCharts
+- 个人职责：根据长春市中国烟草公司提供的销售数据进行数据库建模，并导入MySQL数据库；使用Spring Boot和Spring Data框架编写后台API实现数据访问；使用React和ReCharts框架进行前后端分离开发实现大屏数据展示
