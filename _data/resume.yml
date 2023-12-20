@@ -36,13 +36,13 @@ main: #简历主要内容，
     detail: 计算机科学与技术
   - title: 吉林大学
     duration: "2022年9月 - 2025年6月"
-    sub: 计算机科学与技术
-    detail: 硕士
+    sub: 硕士
+    detail: 计算机科学与技术
 
 - type: skills
   name: "技能"
   content:
-  - tilte: 计算机基础
+  - title: 计算机基础
     items: 
       - 熟练掌握数据结构与算法、操作系统、计算机网络
   - title: Linux
